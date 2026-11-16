@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Set SITE_URL or site-config.json public_url and rebuild to generate the production sitemap.

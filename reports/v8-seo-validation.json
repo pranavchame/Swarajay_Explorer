@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "pages": 270,
+  "fort_pages": 234,
+  "unique_titles": true,
+  "unique_descriptions": true,
+  "keywords_present": true,
+  "brochure_detailed_forts": 14,
+  "brochure_named_forts": 6,
+  "production_base_subpath_test": true,
+  "sitemap_urls_with_pdf": 271,
+  "test_domain_removed_before_delivery": true
+}

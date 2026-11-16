@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "unique_forts": 234,
+  "source_referenced_coordinates": 179,
+  "independently_surveyed_coordinates": 0,
+  "districts": 27,
+  "photographs_in_use": 234,
+  "illustrations_unique": 0,
+  "overview_histories": 135,
+  "source_note_histories": 99,
+  "documented_trek_grades": 176,
+  "documented_durations": 82,
+  "documented_seasons": 22,
+  "errors": [],
+  "scope": "Schema, uniqueness, source provenance, paths, broad coordinate bounds and directions. This is not an independent historical or geospatial verification."
+}

@@ -1,0 +1,1 @@
+V3 completed 15 November 2026. See QUALITY_REPORT.md, README.md and reports/browser-v3.json for current results and limitations. Earlier V1 reports are historical. The release includes 255 fort records and 247 published gallery photographs. No production deployment was made.

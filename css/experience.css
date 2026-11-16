@@ -1,0 +1,25 @@
+/* V5: movement follows navigation and reading, with a persistent quiet mode. */
+.reading-progress{position:fixed;z-index:10001;inset:0 0 auto;height:3px;background:#bc7138;transform-origin:left;pointer-events:none;transform:scaleX(0)}
+.back-to-top{position:fixed;right:22px;bottom:22px;z-index:1001;width:46px;height:46px;border-radius:50%;color:#f6f0e5;background:#1c352b;box-shadow:0 4px 18px #12241b30;border:1px solid #c39965;font-size:24px;transition:translate .2s,background .2s}
+.back-to-top:hover{translate:0 -4px;background:#a96031}.back-to-top:focus-visible{outline:3px solid #bc7138;outline-offset:4px}
+[data-motion-toggle]{border:1px solid #c6b798;border-radius:20px;background:transparent;color:inherit;padding:8px 14px;min-height:44px;font:500 12px var(--sans);cursor:pointer}
+[data-motion-toggle]:disabled{cursor:default;opacity:.8}
+.detail-jump a{position:relative}.detail-jump a::after{content:'';position:absolute;bottom:0;left:0;width:100%;height:2px;background:#b66b32;scale:0 1;transform-origin:left;transition:scale .25s}.detail-jump a[aria-current]::after{scale:1 1}
+.cinema-photo{translate:0 var(--scroll-y,0px);will-change:translate}
+.button,.outline-button,.gallery-open{transition:scale .18s,background .2s,box-shadow .2s}.button:active,.outline-button:active,.gallery-open:active{scale:.97}
+.button:hover{box-shadow:0 6px 22px #a9653324}.button span,.card-arrow{transition:translate .24s}.button:hover span,.card-image:hover .card-arrow{translate:3px -3px}
+#main-nav.open{animation:menu-unfold .25s ease-out}@keyframes menu-unfold{from{opacity:0;translate:0 -8px}to{opacity:1;translate:0 0}}
+#lightbox[open]{animation:viewer-open .23s ease-out}@keyframes viewer-open{from{opacity:0;scale:.96}to{opacity:1;scale:1}}
+summary span:last-child{transition:transform .25s}details[open]>summary span:last-child{transform:rotate(45deg)}
+::view-transition-old(root){transform-origin:left center;animation:folio-out .32s ease-in both}
+::view-transition-new(root){transform-origin:right center;animation:folio-in .42s cubic-bezier(.2,.7,.2,1) both}
+@keyframes folio-out{to{opacity:0;transform:perspective(1800px) rotateY(-5deg) translateX(-20px)}}
+@keyframes folio-in{from{opacity:0;transform:perspective(1800px) rotateY(5deg) translateX(24px)}to{opacity:1;transform:none}}
+.page-leaving main{transform:perspective(1800px) rotateY(-1deg) translateX(-6px);transform-origin:left center;opacity:.65}
+.heritage-path{padding:48px 0 60px;background:#e8e1d2;border-block:1px solid #d8cbb5}.heritage-path h2{margin:12px 0 20px}.heritage-path .lead{max-width:760px;font-size:16px}
+.heritage-stops{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:28px}.heritage-stop{display:block;text-decoration:none;position:relative;overflow:hidden;background:#172b23;min-width:0;color:#fff}.heritage-stop img{width:100%;height:250px;object-fit:cover;opacity:.8;transition:scale .6s}.heritage-stop:hover img{scale:1.04}.heritage-stop div{position:relative;padding:20px}.heritage-stop span{font-size:10px;letter-spacing:1.5px;color:#dfc498}.heritage-stop h3{margin:8px 0;color:#fff}.heritage-stop p{font-size:13px;color:#d6dfd8}.heritage-source{font-size:11px;margin-top:20px}
+.history-insights{margin:24px 0}.history-insights p{margin:15px 0;line-height:1.85}.history-insights .small{font-size:11px}
+.motion-paused *,.motion-paused *::before,.motion-paused *::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}
+.motion-paused .reveal-ready{opacity:1!important;transform:none!important;clip-path:none!important}.motion-paused [data-tilt],.motion-paused [data-magnetic],.motion-paused [data-parallax]{transform:none!important;translate:none!important}.motion-paused .click-ring{display:none}.motion-paused .page-leaving main{opacity:1;transform:none}.motion-paused::view-transition-old(root),.motion-paused::view-transition-new(root){animation:none!important}
+@media(max-width:700px){.heritage-stops{grid-template-columns:1fr;gap:16px}.heritage-stop{display:grid;grid-template-columns:36% 1fr}.heritage-stop img{height:100%;min-height:180px}.heritage-stop div{padding:18px}.heritage-stop h3{font-size:25px}.heritage-path .lead{font-size:14px}.back-to-top{right:15px;bottom:max(15px,env(safe-area-inset-bottom))}.heritage-path{padding:35px 0}}
+@media(prefers-reduced-motion:reduce){.cinema-photo{translate:none}.heritage-stop img{transition:none}::view-transition-old(root),::view-transition-new(root){animation:none!important}}

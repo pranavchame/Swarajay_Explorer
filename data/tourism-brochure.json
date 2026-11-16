@@ -1,0 +1,384 @@
+{
+  "title": "Guardians of History — The formidable forts of Maharashtra",
+  "publisher": "Maharashtra Tourism",
+  "file": "assets/documents/MH-Leaflet-Forts-Slides.pdf",
+  "pages": 12,
+  "entries": [
+    {
+      "slug": "sindhudurg-fort",
+      "pages": [
+        2,
+        3
+      ],
+      "summary": "Built in 1664–1667, Sindhudurg protected the Maratha coast at Malvan. Its island setting, sea-facing walls, freshwater wells and temple dedicated to Chhatrapati Shivaji Maharaj connect naval defence with the memory of Swarajya.",
+      "landmarks": [
+        "Shivaji Maharaj temple",
+        "Handprint and footprint impressions",
+        "Freshwater wells",
+        "Delhi Darwaja"
+      ],
+      "nearby": [
+        "Tarkarli Beach",
+        "Devbagh Beach",
+        "Amboli Waterfall",
+        "Vijaydurg Fort",
+        "Shiroda Beach",
+        "Kunkeshwar Beach and Temple",
+        "Rock Garden",
+        "Chivla Beach",
+        "Rajkot Beach"
+      ],
+      "transport": {
+        "air": "Chipi 22 km; Mopa 78 km; Dabolim 130 km; Belgaum 158 km",
+        "rail": "Kudal 34 km",
+        "road": "Malvan 3 km; boat access from Malvan"
+      },
+      "activities": "Explore the ramparts, wells and temple.",
+      "note": "The brochure’s exclusive “only temple” claim and underwater-passage attraction are not independently established here; do not attempt underwater exploration."
+    },
+    {
+      "slug": "shivneri",
+      "pages": [
+        3
+      ],
+      "summary": "Shivneri is the birthplace of Chhatrapati Shivaji Maharaj. Its successive gates, water storage and Shivai Devi shrine make it an important place for understanding his early life and the defensive architecture around Junnar.",
+      "landmarks": [
+        "Seven gates",
+        "Badami Talav",
+        "Shivai Devi Temple",
+        "Jijabai and young Shivaji statues",
+        "Ganga and Jamuna springs"
+      ],
+      "nearby": [
+        "Leopard rescue centre",
+        "Malshej Ghat"
+      ],
+      "transport": {
+        "air": "Pune 70 km; Nashik 105 km; Mumbai 106 km; Aurangabad 180 km",
+        "rail": "Rajapur 63 km; Pune 94 km",
+        "road": "Pune 94 km; Mumbai 155 km"
+      },
+      "activities": "",
+      "note": "The brochure conflates Shivkunj with the birth chamber and lists questionable rail/airport distances. These are preserved as brochure figures, not verified route advice. Kalsubai and Sandhan Valley are wider regional trips, not immediate fort attractions."
+    },
+    {
+      "slug": "murud-janjira",
+      "pages": [
+        4,
+        5
+      ],
+      "summary": "Murud-Janjira was a major island stronghold of the Siddis. Its protected entrance, bastions, freshwater supply and large cannons illustrate how a self-contained sea fort could resist repeated attacks.",
+      "landmarks": [
+        "Main entrance",
+        "Kalalbangdi, Chavri and Landa Kasam cannons",
+        "Freshwater wells",
+        "Ramparts and internal remains"
+      ],
+      "nearby": [
+        "Dutta Mandir",
+        "Eidgah",
+        "Nawab Palace",
+        "Murud Beach",
+        "Khokri tombs at Rajapuri",
+        "Rajapuri sunset point",
+        "Amboli Dam",
+        "Garambi Waterfall",
+        "Sawatkada Waterfall",
+        "Kashid Beach"
+      ],
+      "transport": {
+        "air": "Mumbai International 150 km; Mumbai Domestic 167 km; Pune International 170 km",
+        "rail": "Roha 45 km",
+        "road": "Pune 196 km; Mumbai 239 km; ferry access"
+      },
+      "activities": "Explore the entrance, cannons, passages and views.",
+      "note": "The brochure’s 14th-century dating is not used to replace the existing historical chronology."
+    },
+    {
+      "slug": "pratapgad",
+      "pages": [
+        5
+      ],
+      "summary": "Pratapgad is closely associated with Chhatrapati Shivaji Maharaj and the confrontation with Afzal Khan. Upper and lower defences, the Bhavani temple and its position above the surrounding valleys explain its military and cultural importance.",
+      "landmarks": [
+        "Double fortifications",
+        "Tulja Bhavani Temple",
+        "Upper and lower fort",
+        "Mahadeva Temple"
+      ],
+      "nearby": [
+        "Afzal Khan tomb",
+        "Pratapgad Museum"
+      ],
+      "transport": {
+        "air": "Karad 125 km; Pune 148 km; Mumbai 224 km",
+        "rail": "Satara 82 km; Pune 142 km; Sangli 198 km; Miraj 210 km",
+        "road": "Satara 81 km; Pune 140 km; Mumbai 221 km"
+      },
+      "activities": "Explore both levels and the temples.",
+      "note": "The brochure gives construction as 1656–1658; the existing sourced chronology remains available separately."
+    },
+    {
+      "slug": "sinhagad",
+      "pages": [
+        6
+      ],
+      "summary": "Sinhagad, also known as Kondhana, commemorates the sacrifice of Tanaji Malusare and the Maratha assault on the fort. Its hilltop position, gates and memorials make it a key heritage excursion from Pune.",
+      "landmarks": [
+        "Tanaji Malusare memorial",
+        "Kaundinyeshwar Temple",
+        "Kalyan Darwaza",
+        "Watchtowers and bastions",
+        "Underground water reservoirs"
+      ],
+      "nearby": [],
+      "transport": {
+        "air": "Pune 40 km",
+        "rail": "Pune 35 km",
+        "road": "Pune 40 km; Mumbai 190 km"
+      },
+      "activities": "",
+      "note": "The popular “Gad aala, pan Sinha gela” saying and renaming story are traditions; the brochure’s suggestion that Tanaji fought alone is not adopted."
+    },
+    {
+      "slug": "suvarnadurg",
+      "pages": [
+        6
+      ],
+      "summary": "Suvarnadurg is an island sea fort near Harnai on the Konkan coast. Its relationship with the nearby Kanakadurga land fort helps explain the layered coastal defences associated with the Maratha navy.",
+      "landmarks": [
+        "Island ramparts",
+        "Kanakadurga coastal fort"
+      ],
+      "nearby": [
+        "Harnai fish auction",
+        "Ganpati Temple, Anjarle",
+        "Yakub Baba Dargah, Kelshi",
+        "Murud Beach, Dapoli",
+        "Karde Beach",
+        "Ladghar Beach",
+        "Keshavraj Temple, Asud",
+        "Parshuram statue, Burondi",
+        "Chandika Devi Temple, Dabhol",
+        "Dabhol Fort",
+        "Panhalekaji Caves"
+      ],
+      "transport": {
+        "air": "Pune 220 km; Mumbai 240 km; Mopa 336 km",
+        "rail": "Khed 44 km",
+        "road": "Dapoli bus stand 13 km; Mumbai 337 km"
+      },
+      "activities": "",
+      "note": "The brochure dates the capture to 1660; this has not been used to overwrite the existing chronology. Confirm current boat access locally."
+    },
+    {
+      "slug": "rajgad",
+      "pages": [
+        7
+      ],
+      "summary": "Formerly Murumbdev, Rajgad served as Chhatrapati Shivaji Maharaj’s capital for roughly 26 years. The brochure connects it with Rajaram Maharaj’s birth, Saibai’s death and the forts retained under the 1665 Treaty of Purandar.",
+      "landmarks": [
+        "Padmavati Temple",
+        "Rameshwar Temple",
+        "Saibai’s tomb",
+        "Padmavati Lake",
+        "Alu, Pali and Gunjavane gates",
+        "Machis"
+      ],
+      "nearby": [],
+      "transport": {
+        "air": "Pune 60 km",
+        "rail": "Pune 37 km",
+        "road": "Pune 57 km; Mumbai 200 km"
+      },
+      "activities": "",
+      "note": ""
+    },
+    {
+      "slug": "ratangad",
+      "pages": [
+        7
+      ],
+      "summary": "Ratangad is known for the Nedhe, a natural opening in the summit rock, and for its gates and Western Ghats views. The brochure presents it as a heritage trek in the Bhandardara landscape.",
+      "landmarks": [
+        "Nedhe, the eye of the needle",
+        "Ganesh Gate",
+        "Hanuman Gate",
+        "Trimbak Gate",
+        "Konkan Gate"
+      ],
+      "nearby": [
+        "Bhandardara"
+      ],
+      "transport": {
+        "air": "Nashik 72 km; Pune 79 km; Ozar 97 km; Mumbai Domestic 177 km",
+        "rail": "Ahmednagar 56 km; Nashik 72 km",
+        "road": "Ratanwadi 6 km; Bhandardara 23 km; Nashik 72 km; Mumbai 197 km"
+      },
+      "activities": "Explore the gates, Nedhe and hill views.",
+      "note": "Several brochure airport/rail distances appear inconsistent with the fort’s location. The “personal favourite” tradition and capture claim remain attributed, not established facts."
+    },
+    {
+      "slug": "salher",
+      "pages": [
+        8
+      ],
+      "summary": "Salher rises above the Baglan landscape and is presented as the highest fort in the Sahyadris. Its commanding views and association with conflicts during Chhatrapati Shivaji Maharaj’s reign make it important to the region’s military history.",
+      "landmarks": [
+        "Parashuram Temple",
+        "Views of Salota",
+        "Salher hills",
+        "Sunrise and sunset viewpoints"
+      ],
+      "nearby": [],
+      "transport": {
+        "air": "Aurangabad 205 km",
+        "rail": "Manmad 95 km",
+        "road": "Manmad 94 km"
+      },
+      "activities": "Trekking, photography and stargazing where permitted.",
+      "note": "Parashuram’s penance is a religious tradition. The brochure’s campfire/rock-climbing suggestions do not establish permission or safe conditions."
+    },
+    {
+      "slug": "lohagad",
+      "pages": [
+        8,
+        9
+      ],
+      "summary": "Lohagad, the Iron Fort, overlooks the Pawna landscape near Lonavala and is linked by a ridge to Visapur. Its surviving gates and Vinchu Kata spur make it a distinctive introduction to Maharashtra’s hill forts.",
+      "landmarks": [
+        "Four major gates",
+        "Vinchu Kata"
+      ],
+      "nearby": [
+        "Pawna Dam",
+        "Bhaja Caves",
+        "Karla Caves",
+        "Visapur Fort"
+      ],
+      "transport": {
+        "air": "Pune 70 km; Mumbai 110 km",
+        "rail": "Lonavala 15 km; Malavli 5 km",
+        "road": "Pune 65 km; Mumbai 100 km; Lonavala 15 km"
+      },
+      "activities": "Trekking and nature photography.",
+      "note": "The brochure also promotes climbing and paragliding; these are not confirmed fort facilities or visitor permissions."
+    },
+    {
+      "slug": "khanderi",
+      "pages": [
+        9
+      ],
+      "summary": "Khanderi, also called Kanhoji Angre Island, guarded approaches to Mumbai Harbour alongside nearby Underi. The brochure contrasts Maratha-held Khanderi with Siddi-held Underi and highlights the later lighthouse.",
+      "landmarks": [
+        "Kanhoji Angre Lighthouse",
+        "Island fortifications"
+      ],
+      "nearby": [
+        "Kihim Beach",
+        "Kanakeshwar Devasthan",
+        "Alibaug Beach",
+        "Kanhoji Angre Samadhi",
+        "Nagaon Beach",
+        "Akshi Beach"
+      ],
+      "transport": {
+        "air": "Mumbai 100 km",
+        "rail": "Pen 30 km",
+        "road": "Pune 150 km; Mumbai 100 km"
+      },
+      "activities": "Boat trips and coastal nature observation, subject to permission.",
+      "note": "The brochure’s 22-foot lighthouse height is not independently verified; boat availability, fishing and water sports require local confirmation."
+    },
+    {
+      "slug": "raigad",
+      "pages": [
+        10
+      ],
+      "summary": "Raigad became Chhatrapati Shivaji Maharaj’s capital and the setting of his 1674 coronation. The Maha Darwaja, royal court, Nagarkhana and Hirakani Bastion reveal the ceremonial and defensive roles of the capital.",
+      "landmarks": [
+        "Maha Darwaja",
+        "Royal durbar and throne replica",
+        "Nagarkhana Darwaja",
+        "Hirakani Bastion",
+        "Takmak Tok",
+        "Jagadishwar Temple",
+        "Gangasagar Lake",
+        "Raj Bhawan"
+      ],
+      "nearby": [
+        "Raigad Museum"
+      ],
+      "transport": {
+        "air": "Mumbai 170 km; Pune 130 km",
+        "rail": "Mangaon 30 km",
+        "road": "Pune 130 km; Mumbai 150 km; Mahad 24 km"
+      },
+      "activities": "Museum visits and trekking; the brochure also describes ropeway access.",
+      "note": "Confirm ropeway operations and any camping permissions before visiting."
+    },
+    {
+      "slug": "panhala-fort",
+      "pages": [
+        10,
+        11
+      ],
+      "summary": "Panhala overlooks the Kolhapur region and preserves the legacy of several dynasties and the Maratha state. The brochure associates its early construction with Bhoja II and later control with the Yadavas, Bahmanis, Bijapur and Chhatrapati Shivaji Maharaj.",
+      "landmarks": [
+        "Sajja Kothi",
+        "Ambarkhana",
+        "Tabak Udyan",
+        "Pusati Buruj",
+        "Teen Darwaja",
+        "Veer Shiva Kashid memorial"
+      ],
+      "nearby": [
+        "Pavangad",
+        "Vertical Adventure Park",
+        "Masai Pathar"
+      ],
+      "transport": {
+        "air": "Pune 230 km; Kolhapur 25 km; Mumbai 420 km",
+        "rail": "Kolhapur 27 km",
+        "road": "Kolhapur 20 km; Mumbai 375 km; Pune 230 km"
+      },
+      "activities": "Heritage walks; the brochure also advertises horse riding, zipline, climbing and other adventure activities.",
+      "note": "The 1673 capture mentioned in the brochure was not the fort’s first Maratha capture. Adventure operators and current facilities are not verified."
+    },
+    {
+      "slug": "vijaydurg-fort",
+      "pages": [
+        11
+      ],
+      "summary": "Vijaydurg’s sea-facing defences and sheltered coastal setting made it an important Maratha naval stronghold. The brochure traces its origins to the 12th century and its later capture by Chhatrapati Shivaji Maharaj.",
+      "landmarks": [
+        "Sea-facing ramparts",
+        "Rameshwar Temple"
+      ],
+      "nearby": [
+        "Kunkeshwar Beach",
+        "Vijaydurg Beach",
+        "Devghali Beach",
+        "Devgad Beach",
+        "Mithmumbari Beach",
+        "Devgad Windmills"
+      ],
+      "transport": {
+        "air": "Dabolim 180 km; Kolhapur 150 km; Chipi 100 km; Mopa 159 km",
+        "rail": "Ratnagiri 120 km; Kankavali 70 km",
+        "road": "Goa 180 km; Mumbai 400 km; Pune 340 km"
+      },
+      "activities": "Coastal heritage, local food and culture; the brochure also advertises water activities and zipline.",
+      "note": "The brochure’s “only two forts” flag claim and 40-km creek claim are not independently established here. Activity availability is unverified."
+    }
+  ],
+  "named_only": [
+    "nagardhan",
+    "gavilgad",
+    "kandhar-fort",
+    "torna-fort",
+    "harishchandragad",
+    "purandar-fort"
+  ],
+  "distance_policy": "Distances are reproduced as brochure figures, not current measured routes. The brochure is undated. Confirm routes and access locally."
+}

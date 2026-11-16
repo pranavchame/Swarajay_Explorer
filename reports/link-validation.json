@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "html_pages": 312,
+  "local_references_checked": 25346,
+  "errors": [],
+  "scope": "All local HTML links, fragments, src/srcset assets, CSS url resources, page titles, h1 counts and viewport metadata. External websites are not continuously availability-tested."
+}

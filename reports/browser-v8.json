@@ -1,0 +1,16 @@
+{
+  "revision": "V8",
+  "brochureMobile390": {
+    "overflow": false,
+    "fortLinks": 20
+  },
+  "rajgadGuideDesktop1365": {
+    "overflow": false,
+    "travelDisclosureWorks": true
+  },
+  "rajgadMobile390": {
+    "overflow": false
+  },
+  "pdfDownload": true,
+  "console": []
+}
