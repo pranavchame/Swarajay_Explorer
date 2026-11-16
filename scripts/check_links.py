@@ -18,7 +18,10 @@ class Document(HTMLParser):
   if a.get('srcset'):self.links.extend(v.strip().split()[0] for v in a['srcset'].split(','))
 docs={};errors=[];count=0;directory_names={}
 for p in ROOT.rglob('*.html'):
- d=Document();d.feed(p.read_text(encoding='utf-8'));docs[p.resolve()]=d
+ content=p.read_text(encoding='utf-8')
+ # Google's exact ownership token is not a visitor-facing HTML page.
+ if p.parent==ROOT and re.fullmatch(r'google[0-9a-f]+\.html',p.name) and content.strip()=='google-site-verification: '+p.name:continue
+ d=Document();d.feed(content);docs[p.resolve()]=d
  if not d.noindex and d.h1!=1:errors.append(f'{p.relative_to(ROOT)}: expected one h1, got {d.h1}')
  if not d.title or not d.viewport:errors.append(f'{p.relative_to(ROOT)}: missing title or viewport')
 def validate(source,link):
